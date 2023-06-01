@@ -1,0 +1,35 @@
+1.   Values are 'hello', -87.8, 6
+     Expressions are -,/,+
+
+2.   Variable:- Variables are used to store the data in a program, or we can say that it ia a empty box where we fill the data or value.
+     String:-  String is the collection of the characters surrounded by single quotes, double quotes.
+
+3.   Three different data types
+     1. Numeric data type:
+        int:- it holds integer values like 4,5,6
+        float:- it hold dot(.) values like 4.5,34.54
+        complex:- it holds complex values like 100+3j
+     2. String data type: 
+        str: it hold string values like 'jai', "soni"
+     3. Sequence data type: 
+        list: we can hold integer, string, float values in this using [] bracket
+        tuple: we can hold integer, string, float values in this using () bracket
+        dictionary: it is an unordered  sequence of key value pair form. It is very useful to retrive data in an optimized way among  large amount of data.
+
+4.   Expression:- It is the combination of operands and operators that is interpreted to produce some other value.
+     Expressions are ued to perform some certain operations like 10+20=30. Here 10 and 20 are operands and '+' is operator.
+
+5.   Expressions can be assigned or used as operands, while statements can only be declared like spam=10
+
+6.   bacon=22
+     bacon +1 after run this code bacon will contain value 23.
+
+7.   'spam' + 'spamspam'
+     'spam' * 3  In both terms will get spamspamspam.
+
+8.   As we all know, that variable names cannot begin with a number so, eggs is a valid variable and 100 is invalid.
+
+9.   The three functions can be used to get the integer, floating-point, or string version of a values are int(), float(), str().
+
+10.  'I have eaten' +99+ 'burrritos.' The expression causes an error becuse 99 is an integer and only strings ca be concatenated 
+     to other strings with the + operaotr. The correct way is i have eaten '+str(99)+' burrtios'.
